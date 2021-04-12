@@ -54,8 +54,6 @@ Further analysis could benefit from the following:
 ```
 ├── data
 ├── images
-├── notebooks
-├── FinalNotebook.ipynb
-├── README.md
-└── ProjectPresentation.pdf
+├── Final_Notebook.ipynb
+└──  README.md
 ```
